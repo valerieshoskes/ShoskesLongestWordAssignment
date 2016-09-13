@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesLongestWordAssignment\ShoskesLongestWordAssignment\bin\Debug\ShoskesLongestWordAssignment.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesLongestWordAssignment\ShoskesLongestWordAssignment\bin\Debug\ShoskesLongestWordAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesLongestWordAssignment\ShoskesLongestWordAssignment\bin\Debug\ShoskesLongestWordAssignment.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesLongestWordAssignment\ShoskesLongestWordAssignment\obj\Debug\ShoskesLongestWordAssignment.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesLongestWordAssignment\ShoskesLongestWordAssignment\obj\Debug\ShoskesLongestWordAssignment.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ShoskesLongestWordAssignment\ShoskesLongestWordAssignment\obj\Debug\ShoskesLongestWordAssignment.pdb
